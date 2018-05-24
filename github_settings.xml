@@ -1,6 +1,6 @@
 <application>
   <component name="GithubSettings">
-    <option name="HOST" value="https://github.com/KevlarTortoise/Calc.git" />
-    <option name="AUTH_TYPE" value="TOKEN" />
+    <option name="LOGIN" value="garetv@outlook.com" />
+    <option name="AUTH_TYPE" value="BASIC" />
   </component>
 </application>
